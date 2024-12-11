@@ -7,7 +7,7 @@ Medellín, Colombia
 
 ## **Resumen Profesional**
 
-Ingeniero informático con más de **9 años de experiencia** en desarrollo y arquitectura de software. Especializado en diseño e implementación de **microservicios**, **sistemas distribuidos** y arquitecturas orientadas a eventos. Amplia experiencia en **AWS**, **Kubernetes**, **Kafka**, integración continua (**CI/CD**), y observabilidad. Fuerte compromiso con buenas prácticas de desarrollo, como **TDD, BDD y DDD**. Experto en lenguajes como **Java, Scala** y en proceso de aprendizaje de **Clojure**. Excelentes habilidades de comunicación, mentoría y colaboración con equipos multidisciplinarios.
+Ingeniero informático con más de **4 años de experiencia** en desarrollo y arquitectura de software. Especializado en diseño e implementación de **microservicios**, **sistemas distribuidos** y arquitecturas orientadas a eventos. Amplia experiencia en **AWS**, **Kubernetes**, **Kafka**, integración continua (**CI/CD**), y observabilidad. Dominio de los paradigmas de programación **orientada a objetos y funcional**. Fuerte compromiso con buenas prácticas de desarrollo, como **TDD, BDD y DDD**. Experto en lenguajes como **Java** y **Scala**. Excelentes habilidades de comunicación, mentoría y colaboración con equipos multidisciplinarios.
 
 ---
 
@@ -17,24 +17,24 @@ Ingeniero informático con más de **9 años de experiencia** en desarrollo y ar
 **Ceiba Software** | Septiembre 2021 – Actualidad  
 
 - Diseñé y optimicé más de **9 microservicios** aplicando principios de **arquitectura hexagonal** y **DDD**.
-- Implementé soluciones de **seguridad** como **JWT**, **reCAPTCHA** y doble autenticación.
+- Implementé soluciones de **seguridad** utilizando **SAML**, **XACML**, **OAuth 2.0** y gestión de identidades con **LDAP**.
 - Configuré pipelines de **CI/CD** con **Jenkins** y **Azure DevOps**, mejorando la eficiencia del despliegue.
-- Migré sistemas a entornos en la nube utilizando **AWS Lambda, DynamoDB** y contenedores con **Kubernetes**.
+- Migré sistemas a entornos en la nube utilizando servicios de **AWS**, incluyendo **Lambda, S3, ECS y EC2**, y contenedores con **Kubernetes**.
 - Mejoré tiempos de respuesta y escalabilidad mediante el ajuste de conexiones y optimización de código.
-- Lideré equipos técnicos bajo metodologías ágiles (**Scrum** y **Kanban**).
+- Participé en diseño y toma de decisiones técnicas, asumiendo responsabilidades de liderazgo cuando fue necesario, aplicando metodologías ágiles (**Scrum** y **Kanban**).
 
-**Tecnologías:** Java, Scala, Spring Boot, AWS, Kubernetes, RabbitMQ, DynamoDB, Jenkins, Sonar, Angular.
+**Tecnologías:** Java, Scala, Spring Boot, AWS (Lambda, S3, ECS, EC2), Kubernetes, RabbitMQ, DynamoDB, Jenkins, Sonar, Angular.
 
 ---
 
 ### **Information Technology Trainer**  
-**Oracle Corporation** | Marzo 2020 – Enero 2023  
+**Oracle Corporation** | Marzo 2020 – Actualidad  
 
-- Impartí formación en **Java, PL/SQL** y bases de datos **Oracle Autonomous Database**.
-- Diseñé y entregué materiales de clase para estudiantes y docentes.
-- Brindé soporte y mentoría a estudiantes en su desarrollo técnico y profesional.
+- Impartí formación a **docentes** en **Java, PL/SQL** y **APEX**.
+- Diseñé y entregué materiales de clase adaptados a profesionales de la educación.
+- Brindé soporte y mentoría en el uso de **Oracle Cloud** y otras herramientas educativas.
 
-**Logro Destacado:** Impacté a más de **1,000 estudiantes** mediante programas de capacitación continua.
+**Logro Destacado:** Impacté a más de **1,000 docentes** mediante programas de capacitación continua.
 
 ---
 
@@ -49,7 +49,7 @@ Ingeniero informático con más de **9 años de experiencia** en desarrollo y ar
 ## **Educación**
 
 ### **Ingeniería Informática**  
-**Politeécnico Colombiano Jaime Isaza Cadavid** | 2014 – 2023
+**Polítécnico Colombiano Jaime Isaza Cadavid**
 
 ---
 
@@ -58,39 +58,13 @@ Ingeniero informático con más de **9 años de experiencia** en desarrollo y ar
 - **Certified Scrum Developer (CSD)** | Scrum Alliance
 - **Scrum Foundation Professional Certificate** | CertiProf
 - **Java SE Object-Oriented Programming** | Oracle Academy
-- **Bootcamp English for Developers** | Platzi
+- **Bootcamp English for Developers** | Código Facilito
 
 ---
 
 ## **Habilidades Técnicas**
 
-- **Lenguajes de Programación:** Java, Scala, Clojure (aprendizaje en proceso), TypeScript, PL/SQL.
+- **Lenguajes de Programación:** Java, Scala, TypeScript, PL/SQL.
 - **Back-End:** Microservicios, Spring Boot, Akka HTTP, Play Framework.
 - **Bases de Datos:** DynamoDB, PostgreSQL, Oracle, MySQL.
-- **Cloud & Infraestructura:** AWS (Lambda, ECS, S3), Azure, Kubernetes.
-- **Mensajería:** Kafka, RabbitMQ.
-- **CI/CD:** Jenkins, Azure DevOps, Git.
-- **Arquitecturas:** Hexagonal, Event-Driven, DDD, TDD, BDD.
-
----
-
-## **Habilidades Blandas**
-
-- Liderazgo y mentoría
-- Trabajo en equipos multidisciplinarios
-- Resolución de problemas complejos
-- Aprendizaje continuo
-- Excelente comunicación y colaboración
-
----
-
-## **Logros Clave**
-
-- **Optimicé microservicios** reduciendo tiempos de respuesta en un **30%**.
-- **Mejoré la seguridad del sistema** mediante implementación de doble autenticación y JWT.
-- **Facilité migraciones a AWS**, garantizando transiciones sin interrupción del servicio.
-
----
-
-© 2024 Anderson Camacho Palacios
-
+- **Cloud & Infraestructura:** AWS (Lambda, ECS, S3, EC2), Azure, Kub
